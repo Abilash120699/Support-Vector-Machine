@@ -1,1 +1,2 @@
 # Support-Vector-Machine
+In machine learning one of the concept was support vector machine i Have done this is using R language in this i have taken the data set and split into two dataset that training set and test set and using svm method i have divided the two classes that age and estimated salary by using our target factor purchased finaly the ouput of training and test set will be show by dividing the two classes using hyperplane by using different color 
